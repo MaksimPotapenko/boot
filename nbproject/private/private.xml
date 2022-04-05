@@ -4,14 +4,22 @@
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/src/java/facade/UserFacade.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/web/WEB-INF/menu.jsp</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/web/WEB-INF/page2.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/src/java/servlets/SneakerServlet.java</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/web/listboots.jsp</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/src/java/entity/Sneaker.java</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/web/WEB-INF/page1.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/web/showLogin.jsp</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/src/java/entity/Role.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/web/WEB-INF/glassfish-resources.xml</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/web/index.html</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/web/WEB-INF/addSneaker.jsp</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/src/java/entity/Brand.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/src/conf/persistence.xml</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/src/java/facade/RoleFacade.java</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/src/java/facade/UserRolesFacade.java</file>
+            <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/src/java/facade/SneakerFacade.java</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/src/java/entity/Buyer.java</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/src/java/servlets/MyServlet.java</file>
             <file>file:/C:/Users/user/Documents/NetBeansProjects/SPTV20/webboots/src/java/entity/Model.java</file>

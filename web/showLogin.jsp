@@ -1,11 +1,11 @@
 <%-- 
-    Document   : showLogin
-    Created on : 29.03.2022, 9:35:56
+    Document   : addAuthor
+    Created on : Feb 11, 2022, 9:13:46 AM
     Author     : user
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
-<h1 class="w-100 text-center my-5">Добавить автора</h1>
+<h1 class="w-100 text-center my-5">Авторизация</h1>
 <div class="w-100 d-flex justify-content-center">
     <div class="card border-0  p-5 m-4" style="width: 30rem;">
         <form action="login" method="POST">
@@ -18,6 +18,8 @@
                 <input type="text" class="form-control"  name="password" id="password" placeholder="">
             </div>
             <input class="btn btn-primary my-3" type="submit" value="Войти">
+            <h4 class="w-100 mt-3 text-center"><a href="showRegistration">Зарегистрироваться</a></h4>
         </form>
     </div>
 </div>
+

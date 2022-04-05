@@ -8,6 +8,7 @@ package servlets;
 import entity.Sneaker;
 import facade.SneakerFacade;
 import java.io.IOException;
+import java.io.PrintWriter;
 import java.util.List;
 import javax.ejb.EJB;
 import javax.servlet.ServletException;
@@ -21,9 +22,7 @@ import javax.servlet.http.HttpServletResponse;
  * @author user
  */
 @WebServlet(name = "MyServlet", urlPatterns = {
-    "/listBooks",
-    "/addSneaker",
-    "/createSneaker",
+    "/listBooks"
 })
 public class MyServlet extends HttpServlet {
     @EJB private SneakerFacade sneakerFacade;
@@ -37,7 +36,7 @@ public class MyServlet extends HttpServlet {
      * @throws IOException if an I/O error occurs
      */
     protected void processRequest(HttpServletRequest request, HttpServletResponse response)
-        throws ServletException, IOException {
+            throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");
         request.setCharacterEncoding("UTF-8");
         List<Sneaker> sneakers = sneakerFacade.findAll();
